@@ -23,6 +23,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Louis_Couperus
     - http://en.wikipedia.org/wiki/Louis_Couperus
 description: 'Translation of: Noodlot'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34678#Footsteps-of-Fate
 gutenberg_issued: '2010-12-16'
 gutenberg_type: Text
 identifiers:
